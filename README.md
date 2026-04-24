@@ -147,10 +147,4 @@ This project demonstrates that neural networks can:
 * Maintain performance with fewer active parameters
 
 
----
 
-If you want, I can also give you:
-
-* 🔥 2–3 line **GitHub description (very important for shortlist)**
-* 🎯 **perfect commit message + repo structure**
-* 💬 **interview explanation (they WILL ask this)**
